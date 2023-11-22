@@ -34,7 +34,7 @@ function Ex16(){
                     }}
                     onSubmit={onSubmit}
                     initialValue={{
-                        field1: 'Some stuff',
+                        field1: 'Too short!',
                     }}
                     />
                 ) : (

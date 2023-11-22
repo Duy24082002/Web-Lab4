@@ -3,7 +3,7 @@ import * as React from "react"
 function fetchUser() {
     return new Promise((resolve) => {
         setTimeout(() => {
-            resolve({id: 1, name: "Toan"});
+            resolve({id: 1, name: "Duy"});
         }, 1000)
     })
 }
